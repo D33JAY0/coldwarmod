@@ -942,3 +942,6 @@
  STATE_941:0 "STATE_941"
  STATE_942:0 "East Berlin"
  STATE_943:0 "West Berlin"
+ STATE_944:0 "British Occupation Zone"
+ STATE_945:0 "French Occupation Zone"
+ STATE_946:0 "American Occupation Zone"
