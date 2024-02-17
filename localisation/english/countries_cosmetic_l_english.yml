@@ -1,6 +1,6 @@
 ﻿l_english:
- TUN_FRA_democratic:0 "
- MOR_FRA_democratic:0 "
+ TUN_FRA_democratic:0 " French protectorate of Tunisia"
+ MOR_FRA_democratic:0 "French protectorate of Morocco"
  INS_HOL_democratic:0 "Dutch East Indies"
  INS_HOL_democratic_DEF:0 "the Dutch East Indies"
  INS_subject:0 "$OVERLORDADJ$ East Indies"
