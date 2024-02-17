@@ -1,0 +1,13 @@
+state={
+	id=943
+	name="STATE_943"
+	history={
+		owner = WGR
+	}
+	provinces={
+		6521 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
