@@ -5,7 +5,7 @@ state={
 		owner = SOV
 	}
 	provinces={
-		26546 
+		13273 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
