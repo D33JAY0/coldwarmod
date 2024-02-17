@@ -1,11 +1,11 @@
 state={
-	id=944
-	name="STATE_944"
+	id=947
+	name="STATE_947"
     history={
 		owner = AUS
 	}
 	provinces={
-		26547 
+		26546 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

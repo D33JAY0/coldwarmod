@@ -1,8 +1,11 @@
 state={
 	id=945
 	name="STATE_945"
+    history={
+		owner = AUS
+	}
 	provinces={
-		13275 
+		26548 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
