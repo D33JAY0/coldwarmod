@@ -1,5 +1,4 @@
-﻿capital = 613 # Nanjing
-
+﻿capital = 542
 oob = "CHI_1936"
 if = {
 	limit = { has_dlc = "Man the Guns" }
