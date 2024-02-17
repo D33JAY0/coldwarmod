@@ -339,7 +339,7 @@ EGY = {
 }
 
 PAL = {
-	color = rgb { 170  125  80 }
+	color = rgb { 62 99 34 }
 	color_ui = rgb { 170  125  80 }
 }
 
@@ -468,7 +468,7 @@ KOR = {
 	color_ui = rgb { 255 248 229 }	
 }
 ISR = {
-	color = rgb { 152  130  191 }
+	color = rgb { 185 189 201 }
 	color_ui = rgb { 152  130  191 }
 }
 CSA = {
