@@ -957,3 +957,5 @@
  STATE_939:0 "Styria"
  STATE_940:1 "Carinthia"
  STATE_941:1 "Salzburg"
+ STATE_942:0 "East Berlin"
+ STATE_943:0 "West Berlin"
