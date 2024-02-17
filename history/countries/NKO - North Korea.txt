@@ -1,0 +1,26 @@
+capital = 527
+
+set_research_slots = 4
+set_stability = 0.75
+set_war_support = 0
+add_command_power = 20
+
+set_politics = {
+	ruling_party = communism
+	elections_allowed = no
+
+}
+set_popularities = {
+	communism = 99
+    democratic = 1
+}
+
+create_country_leader = {
+	name = "Kim Il-Sung"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = GFX_portrait_Kim_Il_Sung
+	expire = "1965.1.1"
+	ideology = stalinism
+	traits = {
+	}
+}

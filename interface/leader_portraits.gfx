@@ -1,0 +1,10 @@
+spriteTypes = {
+    spriteType = {
+		name = GFX_portrait_Syngman_Rhee
+		texturefile = gfx/leaders/SKO/portrait_Syngman_Rhee.dds
+	}
+    spriteType = {
+		name = GFX_portrait_Kim_Il_Sung
+		texturefile = gfx/leaders/NKO/portrait_Kim_Il_Sung.dds
+	}
+}

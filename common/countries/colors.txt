@@ -883,3 +883,11 @@ GRN = {
 	color = rgb { 255 80 80 }
 	color_ui = rgb { 179 0 0 }
 }
+SKO = {
+	color = rgb { 20 133 237 }
+	color_ui = rgb { 87 160 255 }
+}
+NKO = {
+	color = rgb { 201 36 52 }
+	color_ui = rgb { 163 17 31 }
+}
