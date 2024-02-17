@@ -200,6 +200,36 @@ if = {
 		freedom_level = 0.4
 	}
 	set_autonomy = {
+		target = NGA
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.4
+	}
+	set_autonomy = {
+		target = UGA
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.4
+	}
+	set_autonomy = {
+		target = ZIM
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.4
+	}
+	set_autonomy = {
+		target = BOT
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.4
+	}
+	set_autonomy = {
+		target = ZAM
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.4
+	}
+	set_autonomy = {
+		target = KEN
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.4
+	}
+	set_autonomy = {
 		target = SAF
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.4

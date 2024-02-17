@@ -1,4 +1,10 @@
 ﻿l_english:
+ NGA_ENG_democratic:0 "Colony and Protectorate of Nigeria"
+ UGA_ENG_democratic:0 "Protectorate of Uganda"
+ ZIM_ENG_democratic:0 "Colony of Southern Rhodesia"
+ BOT_ENG_democratic:0 "Bechuanaland Protectorate"
+ ZAM_ENG_democratic:0 "Protectorate of Northern Rhodesia"
+ KEN_ENG_democratic:0 "Colony and Protectorate of Kenya"
  TUN_FRA_democratic:0 " French protectorate of Tunisia"
  MOR_FRA_democratic:0 "French protectorate of Morocco"
  INS_HOL_democratic:0 "Dutch East Indies"

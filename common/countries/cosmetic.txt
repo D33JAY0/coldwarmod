@@ -1,3 +1,33 @@
+NGA_ENG_democratic = {
+    color = rgb { 201 56 93 }
+    color_ui = rgb { 255 73 121 }
+}
+
+KEN_ENG_democratic = {
+    color = rgb { 201 56 93 }
+    color_ui = rgb { 255 73 121 }
+}
+
+UGA_ENG_democratic = {
+    color = rgb { 201 56 93 }
+    color_ui = rgb { 255 73 121 }
+}
+
+ZIM_ENG_democratic = {
+    color = rgb { 201 56 93 }
+    color_ui = rgb { 255 73 121 }
+}
+
+BOT_ENG_democratic = {
+    color = rgb { 201 56 93 }
+    color_ui = rgb { 255 73 121 }
+}
+
+ZAM_ENG_democratic = {
+    color = rgb { 201 56 93 }
+    color_ui = rgb { 255 73 121 }
+}
+
 TUN_FRA_democratic = {
     color = rgb { 26 65 145 }
     color_ui = rgb { 255 73 121 }
