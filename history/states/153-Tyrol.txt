@@ -4,7 +4,7 @@ state={
 	name="STATE_153"
 
 	history={
-		owner = AUS
+		owner = FRA
 		victory_points = {
 			673 5 
 		}
@@ -25,7 +25,7 @@ state={
 	}
 
 	provinces={
-		671 673 9633 9636 11618 11634 
+		673 9633 9636 11618 11634 
 	}
 	manpower=1500986
 	buildings_max_level_factor=1.000

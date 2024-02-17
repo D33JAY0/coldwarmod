@@ -1,15 +1,13 @@
-
 state={
-	id=938
-	name="STATE_938"
+	id=948
+	name="STATE_948"
 	history={
-		owner = SOV
+		owner = ENG
 	}
 	provinces={
-		3700 9661 11630 
+		671 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
-	state_category=town
 	local_supplies=0.000
 }
