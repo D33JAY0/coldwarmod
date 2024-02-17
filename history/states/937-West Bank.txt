@@ -1,0 +1,17 @@
+state={
+	id=937
+	name="STATE_937"
+	history={
+		owner = PAL
+		victory_points = {
+			1086 1 
+		}
+	}
+	provinces={
+		1086 7107 
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

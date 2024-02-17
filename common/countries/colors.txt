@@ -9,7 +9,7 @@ ENG = {
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
-	color = rgb { 153 26 38 }
+	color = rgb { 201 36 52 }
 	color_ui = rgb { 163 17 31 }
 }
 SWE = {
@@ -17,7 +17,7 @@ SWE = {
 	color_ui = rgb { 47 172 255 }
 }
 FRA = {
-	color = rgb { 57 113 228 }
+	color = rgb { 26 65 145 }
 	color_ui = rgb { 74 147 255 }
 }
 LUX = {
@@ -54,7 +54,7 @@ LAT = {
 	color_ui = rgb { 124 125 184 }
 }
 SPR = {
-	color = rgb { 242 205 94 }
+	color = rgb { 199 128 22 }
 	color_ui = rgb { 255 255 122 }
 }
 ITA = {
@@ -138,11 +138,11 @@ BRA = {
 	color_ui = rgb { 99 189 82 }
 }
 CAN = {
-	color = rgb { 233  59  59 }
+	color = rgb { 201 56 56 }
 	color_ui = rgb { 155 62 51 }
 }
 CHI = {
-	color = hsv { 0.18 0.6 0.9 } #255 244 190
+	color = rgb { 11 30 117 } 
 	color_ui = hsv { 0.18 0.3 0.9 }
 }
 CHL = {
@@ -394,12 +394,12 @@ LAO = {
 }
 
 INS = {
-	color = rgb { 40  50  120 }
+	color = rgb { 255 0 0 }
 	color_ui = rgb { 40  50  120 }
 }
 
 VIN = {
-	color = rgb { 230  223  50 }
+	color = rgb { 140 18 18 }
 	color_ui = rgb { 230  223  50 }
 }
 
@@ -452,11 +452,11 @@ BOT = {
 	color_ui = rgb { 11 132 112 }
 }
 PAK = {
-	color = rgb { 21 38 66 }
+	color = rgb { 45 99 43 }
 	color_ui = rgb { 21 38 66 }
 }
 WGR = {
-    color = rgb { 45 73 138 } 
+    color = rgb { 21 67 173 } 
     color_ui = rgb { 225 255 255 }
 }
 DDR = {

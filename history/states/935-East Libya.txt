@@ -1,0 +1,23 @@
+state={
+	id=935
+	name="STATE_935"
+	
+	state_category = wasteland
+	impassable = yes
+	
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = LBA
+	}
+	provinces={
+		1057 1060 1140 1994 4191 4962 7985 10104 10754 10785 11951 12866 
+	}
+	manpower=31523
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}
