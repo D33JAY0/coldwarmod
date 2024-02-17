@@ -2,13 +2,14 @@
 state={
 	id=950
 	name="STATE_950"
+	state_category="rural"
 	history={
 		owner = OMA
 	}
 	provinces={
-		2103 13278 13279 13280 13281 13282 13283 
+		2103 13278 13279 13280 13281 13282 13283
 	}
-	manpower=0
+	manpower=1
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }
