@@ -5,7 +5,7 @@ state={
 		owner = ENG
 	}
 	provinces={
-		26547 
+		13274 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
