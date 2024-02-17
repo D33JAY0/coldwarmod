@@ -1,13 +1,14 @@
 state={
 	id=942
 	name="STATE_942"
+	state_category="metropolis"
 	history={
 		owner = DDR
 	}
 	provinces={
-		13277 
+		13276 
 	}
-	manpower=0
+	manpower=1
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }
