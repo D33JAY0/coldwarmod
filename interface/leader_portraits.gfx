@@ -7,4 +7,8 @@ spriteTypes = {
 		name = GFX_portrait_Kim_Il_Sung
 		texturefile = gfx/leaders/NKO/portrait_Kim_Il_Sung.dds
 	}
+	spriteType = {
+		name = GFX_portrait_harry_truman
+		texturefile = gfx/leaders/USA/portrait_Harry_Truman.dds
+	}
 }
