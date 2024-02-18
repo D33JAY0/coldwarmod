@@ -329,6 +329,16 @@ add_ideas = {
 	home_of_the_free
 }
 
+create_country_leader = {
+	name = "Harry S. Truman"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = GFX_portrait_harry_truman
+	expire = "1953.1.1"
+	ideology = liberalism
+	traits = {
+	}
+}
+
 
 # DIPLOMACY
 set_autonomy = {
