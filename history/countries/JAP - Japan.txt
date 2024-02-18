@@ -2,21 +2,11 @@
 
 
 set_cosmetic_tag = JAP_occupied
-set_stability = 0.2 #baseline, THE EMPEROR PROTECTS
+set_stability = 0.8
 set_war_support = 0.8
 
 set_research_slots = 4
 set_fuel_ratio = 1.0
-add_ideas = {
-	state_shintoism
-	limited_exports
-	limited_conscription
-	partial_economic_mobilisation
-
-	JAP_zaibatsus
-	JAP_duplicate_research_efforts
-	JAP_militarism
-}
 
 609 = {
 	start_resistance = yes
