@@ -1,36 +1,36 @@
 # turns out making timed events is hilariously difficult. this event triggers sometime between like Jan 1st and Jan 20th 1950
 # see https://www.reddit.com/r/hoi4/comments/6mlexc/help_with_event_triggers/ for more info
 
-add_namespace = south_korea
+add_namespace = north_korea
 
 country_event = {
-	id = south_korea.1
-	title = south_korea.1.t
-	desc = south_korea.1.d
+	id = north_korea.1
+	title = north_korea.1.t
+	desc = north_korea.1.d
 	picture = GFX_report_event_chinese_soldiers_fighting
 
 	fire_only_once = yes
 
 	option = {
-		name = south_korea.1.a
-		# custom_effect_tooltip = south_korea.1.a.tt
+		name = north_korea.1.a
+		# custom_effect_tooltip = north_korea.1.a.tt
 		create_wargoal = {
 			type = annex_everything
-			target = NKO
+			target = SKO
 		}
 	}
 	mean_time_to_happen = {
 		days = 1
 	}
 	trigger = {
-		tag = SKO
+		tag = NKO
 	}
 }
 
 country_event = {
-	id = south_korea.2
-	title = south_korea.2.t
-	desc = south_korea.2.d
+	id = north_korea.2
+	title = north_korea.2.t
+	desc = north_korea.2.d
 	picture = GFX_report_event_chinese_soldiers_fighting
 
 	fire_only_once = yes
@@ -38,7 +38,7 @@ country_event = {
 	hidden = yes 
 	
 	trigger = {
-		tag = SKO
+		tag = NKO
 	}
 
 	mean_time_to_happen = {
@@ -46,15 +46,15 @@ country_event = {
 	}
 
 	immediate = {
-		SKO = {
+		NKO = {
 			country_event = { 
-				id = south_korea.1
+				id = north_korea.1
 				days = 1 
 			} 
 		}
 	}
 
 	option = {
-		name = south_korea.2.a
+		name = north_korea.2.a
 	}
 }
