@@ -1,0 +1,13 @@
+state={
+	id=952
+	name="STATE_952"
+	history={
+		owner = SPR
+	}
+	provinces={
+		13285 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -28,6 +28,34 @@ state={
 			}
 
 		}
+		
+		1936.1.1 = {		
+			FRA = {
+				set_province_controller = 1248
+				set_province_controller = 10180
+				set_province_controller = 4255
+				set_province_controller = 10137
+				set_province_controller = 7229
+				set_province_controller = 10309
+				set_province_controller = 4379
+				set_province_controller = 1302
+				set_province_controller = 7280
+				set_province_controller = 1157
+				set_province_controller = 7093
+				set_province_controller = 9948
+				set_province_controller = 12065
+				set_province_controller = 10103
+				set_province_controller = 4529
+				set_province_controller = 12319
+				set_province_controller = 10075
+			} 			
+		}
+		
+		1936.1.1 = {		
+			VIN = {
+				set_province_controller = 4075
+			} 			
+		}
 
 	}
 

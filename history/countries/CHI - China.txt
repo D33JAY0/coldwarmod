@@ -1,4 +1,4 @@
-﻿capital = 542
+﻿capital = 524
 oob = "CHI_1936"
 if = {
 	limit = { has_dlc = "Man the Guns" }
