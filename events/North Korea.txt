@@ -20,7 +20,8 @@ country_event = {
 		}
 	}
 	mean_time_to_happen = {
-		days = 1
+		days = 24
+		months = 6
 	}
 	trigger = {
 		tag = NKO
