@@ -342,6 +342,13 @@ SOV_martemyan_ryutin = {
 	set_character_flag = SOV_imprisoned_flag
 }
 	
+puppet = DDR
+puppet = MON
+puppet = CZE
+puppet = POL
+puppet = ROM
+puppet = BUL
+puppet = HUN
 
 
 ### PROPAGANDA ###

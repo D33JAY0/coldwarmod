@@ -1,0 +1,60 @@
+# turns out making timed events is hilariously difficult. this event triggers sometime between like Jan 1st and Jan 20th 1950
+# see https://www.reddit.com/r/hoi4/comments/6mlexc/help_with_event_triggers/ for more info
+
+add_namespace = north_korea
+
+country_event = {
+	id = north_korea.1
+	title = north_korea.1.t
+	desc = north_korea.1.d
+	picture = GFX_report_event_chinese_soldiers_fighting
+
+	fire_only_once = yes
+
+	option = {
+		name = north_korea.1.a
+		# custom_effect_tooltip = north_korea.1.a.tt
+		create_wargoal = {
+			type = annex_everything
+			target = SKO
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	trigger = {
+		tag = NKO
+	}
+}
+
+country_event = {
+	id = north_korea.2
+	title = north_korea.2.t
+	desc = north_korea.2.d
+	picture = GFX_report_event_chinese_soldiers_fighting
+
+	fire_only_once = yes
+
+	hidden = yes 
+	
+	trigger = {
+		tag = NKO
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		NKO = {
+			country_event = { 
+				id = north_korea.1
+				days = 1 
+			} 
+		}
+	}
+
+	option = {
+		name = north_korea.2.a
+	}
+}
